@@ -1,0 +1,3 @@
+Nombres: Miguel Angel
+Apellidos: Puquio Sermeño
+Ciudad: Lima
